@@ -1,0 +1,3 @@
+[submodule "terraform-duration"]
+	path = terraform-duration
+	url = git@github.com:Lambda-Null/terraform-duration.git
